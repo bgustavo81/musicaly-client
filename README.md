@@ -1,6 +1,6 @@
 # musicaly-client
 
-![This is an image](https://my-foto-bucket-123.s3.us-east-2.amazonaws.com/github/parkly-app-diagram.png)
+![This is an image](https://my-foto-bucket-123.s3.us-east-2.amazonaws.com/github/musicaly-diagram.png)
 
 ## Technologies used on the application:
 ### Front-End:
